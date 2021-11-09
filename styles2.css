@@ -1,0 +1,25 @@
+.sobre2{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 50px;
+    margin-top: 0%;
+    margin-left: 40%;
+    color:rgb(0, 0, 0);
+}
+
+.sobre2:hover{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 60px;
+    margin-top: 0%;
+    margin-left: 40%;
+    color:rgb(0, 0, 0);
+}
+
+
+.sobre3{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 22px;
+}
+
+body{
+    background-color: rgb(241, 241, 241);
+}
